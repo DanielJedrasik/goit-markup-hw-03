@@ -237,6 +237,7 @@ a {
   line-height: 1.88;
   letter-spacing: 0.03em;
   color: var(--gray-text-color);
+  margin-top: 4px;
 }
 .header-navigation {
   border-bottom: 1px solid var(--stroke-color);

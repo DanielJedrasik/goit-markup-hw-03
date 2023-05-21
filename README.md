@@ -5,6 +5,6 @@
 
   <p># goit-markup-hw-03</p>
 
-<p>Secondary homework</p>
+<p>Third homework</p>
 </html>
 
